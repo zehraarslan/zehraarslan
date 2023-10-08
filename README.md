@@ -1,4 +1,3 @@
-### Hi there 👋
 <!--
 **zehraarslan/zehraarslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,13 +33,10 @@ Aşağıda bazı programlama dilleri ve teknolojileri bulabilirsiniz ki bunlarla
 - 🐧 Linux
 - 📈 Microsoft Office
 
-## GitHub İstatistikleri
-
-[![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=<KULLANICIADINIZ>&show_icons=true&theme=dark)](https://github.com/<KULLANICIADINIZ>)
 
 ## İletişim
 
-Benimle iletişime geçmek veya projelerim hakkında daha fazla bilgi almak için [LinkedIn](https://www.linkedin.com/in/ADINIZSOYADINIZ/) üzerinden bana ulaşabilirsiniz.
+Benimle iletişime geçmek veya projelerim hakkında daha fazla bilgi almak için [LinkedIn](https://www.linkedin.com/in/zehraarslan/) üzerinden bana ulaşabilirsiniz.
 
 Teşekkür ederim!
 
