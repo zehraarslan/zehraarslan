@@ -14,4 +14,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - -->
 
+# Merhaba, Benim Github Sayfama Hoş Geldiniz! 👋
+
+Ben bir yazılım geliştiriciyim ve yazılım alanına olan tutkumla sürekli kendimi geliştirmeye çalışıyorum. İşte biraz daha fazla bilgi:
+
+- 🔭 Şu anda 42 İstanbul Yazılım Okulu'nda Yazılım Geliştirme ve ARGE üzerine çalışıyorum.
+- 🎓 2016-2020 yılları arasında Afyon Kocatepe Üniversitesi'nde lisans eğitimi aldım.
+- 📚 2018-2020 yılları arasında Anadolu Üniversitesi'nde Web Tasarımı ve Kodlama önlisans programını tamamladım.
+
+## Programlama Dilleri ve Teknolojileri
+
+Aşağıda bazı programlama dilleri ve teknolojileri bulabilirsiniz ki bunlarla deneyimim var:
+
+- 💻 C, C++, C#
+- ☕ Java
+- 📊 SQL
+- 🌐 Web Teknolojileri: HTML, CSS, TypeScript, Angular
+- 🛠️ Donanım ve Yazılım Geliştirme: Arduino, Proteus
+- 🐧 Linux
+- 📈 Microsoft Office
+
+## GitHub İstatistikleri
+
+[![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=<KULLANICIADINIZ>&show_icons=true&theme=dark)](https://github.com/<KULLANICIADINIZ>)
+
+## İletişim
+
+Benimle iletişime geçmek veya projelerim hakkında daha fazla bilgi almak için [LinkedIn](https://www.linkedin.com/in/ADINIZSOYADINIZ/) üzerinden bana ulaşabilirsiniz.
+
+Teşekkür ederim!
+
 
